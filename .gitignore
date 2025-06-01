@@ -1,0 +1,15 @@
+# Frontend (React)
+task-manager-app/node_modules/
+task-manager-app/build/
+task-manager-app/.env
+
+# Backend (Java/Eclipse)
+task-manager/target/
+task-manager/bin/
+task-manager/.settings/
+task-manager/.classpath
+task-manager/.project
+task-manager/*.log
+
+# General
+.DS_Store
